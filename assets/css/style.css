@@ -1,0 +1,55 @@
+*
+{
+    background-color: #ffffff;
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+#h1
+{
+    border: solid #951010;
+    font-size: calc(3rem + 2vw);
+    text-align: center;
+    background-color: #a80000;
+    color:#ffffff;
+    position: relative;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+#div-p
+{
+    margin-top: 1rem;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+#p
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    border : solid black;
+    align-items: center;
+    width: 20%;
+    border-radius: 4rem;
+    font-size: calc(1rem + 2vw);
+    text-align: center;
+
+}
+#p1
+{
+    margin-top: 2rem;
+    position: relative;
+}
+#p2
+{
+    color: rgb(255, 0, 0);
+    float: left;
+    position: relative;
+    margin-top: 2rem;
+    float: right;
+}
+picture img
+{
+    margin-top: 8rem;
+    position: absolute;
+}
